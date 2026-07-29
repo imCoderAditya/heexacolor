@@ -1,6 +1,6 @@
 name: heexacolor
-description: This is a HexaColor Package
-version: 0.0.2
+description: ThemeVerse - The AI-Powered Design System & Universal Color Engine for Flutter.
+version: 1.0.0
 homepage: https://github.com/imCoderAditya/heexacolor.git
 
 environment:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
