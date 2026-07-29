@@ -1,3 +1,7 @@
+## 1.0.1
+
+- 🖼️ **Documentation**: Added visual banner asset, app showcase mockup, badges, and comprehensive documentation to `README.md`.
+
 ## 1.0.0
 
 - 🎉 **Major Release**: Transformed package into ThemeVerse — AI-Powered Design System Engine & Universal Color Suite for Flutter.
