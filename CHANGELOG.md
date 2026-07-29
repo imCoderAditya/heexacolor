@@ -1,3 +1,7 @@
+## 1.0.2
+
+- 🖼️ **Documentation**: Added project-precise visual banner & interactive UI mockup images matching exact package features (`#6750A4`, 140+ CSS colors, Tailwind colors, WCAG AA/AAA badges, preset styles, floating glass navigation).
+
 ## 1.0.1
 
 - 🖼️ **Documentation**: Added visual banner asset, app showcase mockup, badges, and comprehensive documentation to `README.md`.
